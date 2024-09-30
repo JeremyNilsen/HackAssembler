@@ -1,5 +1,5 @@
 To run:
- - Compile the java files
+ - Compile the HackAssembler.java file
  - Bring a .asm file from the examples into the same directory as HackAssembler.java
  - Set the selected .asm file name as the argument for HackAssembler.java
  - Run HackAssembler.java
